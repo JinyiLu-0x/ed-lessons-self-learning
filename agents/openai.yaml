@@ -1,0 +1,4 @@
+interface:
+  display_name: "ED Lessons Self-Learning"
+  short_description: "严格保留原教程结构，仅补充完成操作必需的命令行细节"
+  default_prompt: "使用 $ed-lessons-self-learning 严格按照我提供的教程，从未完成部分开始逐步教我操作。"
