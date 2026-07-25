@@ -1,4 +1,4 @@
 interface:
   display_name: "ED Lessons Self-Learning"
-  short_description: "严格保留原教程结构，仅补充完成操作必需的命令行细节"
-  default_prompt: "使用 $ed-lessons-self-learning 严格按照我提供的教程，从未完成部分开始逐步教我操作。"
+  short_description: "按课程原文讲解 Week Overview 或逐步执行教程，保留关键英语术语"
+  default_prompt: "使用 $ed-lessons-self-learning 按我提供的课程材料判断是教程还是说明文字，用中文突出重点讲解或逐步带我操作。"
