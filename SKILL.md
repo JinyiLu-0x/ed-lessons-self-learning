@@ -96,6 +96,16 @@ nano lovephp.php
 4. 子节之间空一行，保持阅读上明显分隔。
 5. 不把多个父级章节混在一起；例如 `1.1` 和 `1.2` 应分开输出。
 
+### 空行格式
+
+文字说明型材料使用紧凑格式：
+
+1. 子节标题后直接写 `1. 这段在说什么`。
+2. `1. 这段在说什么` 正文结束后空一行，再写 `2. 重点拆解`。
+3. `2. 重点拆解` 正文结束后空一行，再写 `3. 小结`。
+4. 除这两个分隔空行外，不要在标题、编号、正文和重点条目之间额外插入空行。
+5. 子节与子节之间只空一行。
+
 ### 这段在说什么
 
 用 2-4 句话概括这段材料的核心意思，语气像给自学学生讲课。
@@ -117,33 +127,25 @@ nano lovephp.php
 
 用户提供 Week Overview 或编号课程文字时：
 
-## 1.1 Introduction To Computers And Programming
-
-### 这段在说什么
-
+**1.1 Introduction To Computers And Programming**
+1. 这段在说什么
 这段是 Week 1 的课程总览，告诉你开学第一周前应该准备什么、课堂会讲什么、Applied Session 会做什么。
 
-### 重点拆解
-
-1. `Week 0 - Getting Started`
+2. 重点拆解
+**Week 0 - Getting Started**
    你应该已经完成 Week 0，用来熟悉 `Ed` 和每周内容结构。
-
-2. `Workshop` 和 `Applied Session`
+**Workshop** 和 **Applied Session**
    这两类课都需要每周到校参加，而且不会录播。
-
-3. `object-oriented programming`
+**object-oriented programming**
    Week 1 会开始介绍 Java 为什么属于面向对象语言，并引出 `classes` 和 `objects`。
 
-### 小结
-
+3. 小结
 - Week 1 是 Java 学习的正式起点。
 - 从 Week 2 开始，上课前要先读完当周 Lesson 并完成 quiz。
 - `IntelliJ` 是这学期写 Java 的主要 `IDE`。
 
-## 1.1.2 A Brief History Of Computers
-
-### 这段在说什么
-
+**1.1.2 A Brief History Of Computers**
+1. 这段在说什么
 这段介绍 `computer` 这个词的历史变化，以及现代 computing system 的基本组成。
 
 ## 简洁要求
