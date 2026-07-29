@@ -1,4 +1,4 @@
 interface:
   display_name: "ED Lessons Self-Learning"
-  short_description: "按 Topic/Week/Workshop 整理课程材料，并提炼核心术语"
-  default_prompt: "使用 $ed-lessons-self-learning 按我提供的课程材料判断是教程、说明文字、Workshop slides 还是核心提炼请求；请保留原模块顺序和关键英语术语，用中文突出重点讲解。"
+  short_description: "整理 ED lesson、多段视频、lecture slides 和教程步骤的中文自学笔记"
+  default_prompt: "使用 $ed-lessons-self-learning 学习这份课程材料；判断它是教程、多段视频、slides 还是说明文字，保留关键 English terms 并严格按原顺序整理。"
