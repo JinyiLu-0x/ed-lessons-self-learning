@@ -1,4 +1,4 @@
 interface:
   display_name: "ED Lessons Self-Learning"
-  short_description: "整理 ED lesson、多段视频、lecture slides 和教程步骤的中文自学笔记"
-  default_prompt: "使用 $ed-lessons-self-learning 学习这份课程材料；判断它是教程、多段视频、slides 还是说明文字，保留关键 English terms 并严格按原顺序整理。"
+  short_description: "整理教程、题目答案、多段视频和 lecture slides 的中文自学笔记"
+  default_prompt: "使用 $ed-lessons-self-learning 学习这份课程材料；判断它是教程、题目与答案、多段视频、slides 还是说明文字，保留关键 English terms，并按对应格式简洁整理。"
